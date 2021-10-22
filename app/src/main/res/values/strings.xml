@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">calculadora_Kotlin</string>
+    <string name="app_name">calculadoraJavaFromKT</string>
     <string name="resultado">Resultado</string>
     <string name="num_1">Ingrese el 1er número</string>
     <string name="num_2">Ingrese el 2do número</string>
